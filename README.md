@@ -10,6 +10,7 @@
 | Database | MongoDB Atlas | ✅ |
 
 ---
+**LIVE == ("https://mindful-bot-ecru.vercel.app")
 
 ## Step 1 — MongoDB Atlas (Database)
 
